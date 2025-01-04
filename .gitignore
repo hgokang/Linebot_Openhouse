@@ -169,3 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/passportlinebot
+registration.txt
+passport-446615-a5c69736fc53.json
